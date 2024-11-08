@@ -1,11 +1,14 @@
-ＷＥＬＬＣＯＭＥ ＴＯ  ＭＹ ＰＡＧＥ 👋
+<h1> WELLCOME TO MY PAGE 👋 </h1> 
 
-Hi i'm Huy !
+My name is Huy!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justin-yuH&show_icons=true&theme=transparent) 
+<a href="https://github.com/Justin-yuH/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Justin-yuH&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/Justin-yuH/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-yuH&hide_progress=true&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-yuH&hide_progress=true&show_icons=true&theme=transparent)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Justin-yuH&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
